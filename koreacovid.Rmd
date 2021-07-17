@@ -80,6 +80,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+There is a 95% confidence interval that the odds of dying if you're a male is somewhere between 1.4 and 3.9. The observed odds are that there is a 2.3 times more likely to die if you are a male than if you were a female. The p-value of the Fisher's test is about 0.0009. Because this is a significantly small number, we would reject the null hypothesis that states that covid deaths are independent of sex.
 
 ## Conclusions
 
