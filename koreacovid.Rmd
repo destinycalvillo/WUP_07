@@ -84,3 +84,5 @@ There is a 95% confidence interval that the odds of dying if you're a male is so
 
 ## Conclusions
 
+Our null hypothesis stated that Covid-19 related deaths were independent of sex. To evaluate this question, we first performed a gg-plot and bar-chart, using these we were able to get an approximation of results between the number of deaths and the gender. We were able to estimate that about 60% of males had died, which was more than the percentage of female deaths. We then performed a numerical summary table, which gave us a better and more precise measurement. From here, it appeared that 64% of males had died compared to only 36% of females. This allowed us to assume that males were twice as likely to die from the virus than females. With the inferential test, we obtained the p-value and this led us to get our final answer of rejecting the null hypothesis.
+
